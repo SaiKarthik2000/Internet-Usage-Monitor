@@ -1,4 +1,3 @@
-# 19pd18 19pd28 CN Package
 # Internet Usage Monitor
 import speedtest
 import psutil
